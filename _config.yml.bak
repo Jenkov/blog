@@ -4,7 +4,7 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            吴恒宇
 tagline:          'blog'
 description:      'My personal blog.'
 url:              http://ecoo.github.io
