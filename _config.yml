@@ -34,10 +34,10 @@ social:
 
 menu:
   - title:        Home
-    url:          https://ecoo.github.io/jekyll_demo/
+    url:          https://ecoo.github.io/blog/
 
   - title:        About
-    url:          https://ecoo.github.io/jekyll_demo//about
+    url:          https://ecoo.github.io/blog//about
 
 copyright:
   author:         Camporez
